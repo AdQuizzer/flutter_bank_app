@@ -35,3 +35,4 @@
   <img src="https://raw.githubusercontent.com/sertanakkus/flutter-banking-app/main/screenshots/pocket-4.png" width="230"/>
 </p>
 # flutter_bank_app
+# flutter_bank_app
